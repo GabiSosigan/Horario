@@ -12,4 +12,4 @@
 
 </div>
   
-### **Observação:*** As atividades realizadas estarão [nesse repositório](https://github.com/GabiSosigan/EstudosNPI)
+### **Observação:** As atividades realizadas estarão [nesse repositório](https://github.com/GabiSosigan/EstudosNPI)
