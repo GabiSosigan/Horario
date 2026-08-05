@@ -1,4 +1,5 @@
 <div align="center">
+  
 ### Cronograma (Podem haver alterações)
 </div>
 
@@ -15,5 +16,6 @@
 </div>
 
 <div align="center">
+  
 ### **Observação:*** As atividades realizadas estarão [nesse repositório](https://github.com/GabiSosigan/EstudosNPI)
 </div>
