@@ -16,6 +16,6 @@
 
 #### Agenda
 
-**03/08/2026:** Comecei o estudo de Python no site do FreeCodeCamp
-**04/08/2026:** Faltei por questões de saúde
-**05/08/2026:** Além da monitoria, comecei a criar um currículo em LaTeX no Overleaf
+**03/08/2026:** Comecei o estudo de Python no site do FreeCodeCamp <br>
+**04/08/2026:** Faltei por questões de saúde <br>
+**05/08/2026:** Além da monitoria, comecei a criar um currículo em LaTeX no Overleaf <br>
