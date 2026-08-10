@@ -6,10 +6,10 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| *Segunda* | Python | Introdução ao Python | 🟢 Concluído! |
-| *Terça* | Javascript | Introdução ao Javascript | 🔴 Faltei! |
-| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
-| *Quinta* | Aseprite | Itens, animações e criaturas | 🟢 Concluído! |
+| *Segunda* | Python | Continuação Python | 🟡 Em Progresso |
+| *Terça* | Javascript | Introdução ao Javascript | 🟡 Em Progresso |
+| *Quarta* | Monitoria | ----- | 🟡 Em Progresso |
+| *Quinta* | Aseprite | Itens, animações e criaturas | 🟡 Em Progresso |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
 
 </div>
