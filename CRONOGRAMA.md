@@ -6,8 +6,8 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| *Segunda* | Python | Continuação Python | 🟢 Concluído |
-| *Terça* | Javascript | Introdução ao Javascript | 🟡 Em Progresso |
+| *Segunda* | Python | Continuação Python | 🟢 Concluído! |
+| *Terça* | Javascript | Introdução ao Javascript | 🟢 Concluído! |
 | *Quarta* | Monitoria | ----- | 🟡 Em Progresso |
 | *Quinta* | Aseprite | Itens, animações e criaturas | 🟡 Em Progresso |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
@@ -21,3 +21,4 @@
 - **05/08/2026:** Além da monitoria, comecei a criar um currículo em LaTeX no Overleaf
 - **06/08/2026:** Terminei a atribuição de tarefa do Grupo de jogos
 - **10/08/2026:** Estudei sobre Strings e Substrings no Python, e também continuei uma comissão de desenho
+- **11/08/2026:** Comecei a estudar Javascript, também no FreeCodeCamp
