@@ -8,8 +8,8 @@
 | :--- | :--- | :--- | :---: |
 | *Segunda* | Python | Continuação Python | 🟢 Concluído! |
 | *Terça* | Javascript | Introdução ao Javascript | 🟢 Concluído! |
-| *Quarta* | Monitoria | ----- | 🟡 Em Progresso |
-| *Quinta* | Aseprite | Itens, animações e criaturas | 🟡 Em Progresso |
+| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
+| *Quinta* | Aseprite | Itens, animações e criaturas | 🟢 Concluído! |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
 
 </div>
@@ -22,3 +22,5 @@
 - **06/08/2026:** Terminei a atribuição de tarefa do Grupo de jogos
 - **10/08/2026:** Estudei sobre Strings e Substrings no Python, e também continuei uma comissão de desenho
 - **11/08/2026:** Comecei a estudar Javascript, também no FreeCodeCamp
+- **12/08/2026:** Participei da monitoria da turma intermediária e continuei a comissão de desenho
+- **12/08/2026:** Participei da reunião do grupo de jogos, entreguei minhas artes e terminei uma atividade de árvore b+
