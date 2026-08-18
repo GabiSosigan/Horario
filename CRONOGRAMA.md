@@ -7,7 +7,7 @@
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
 | *Segunda* | UML | Atividade UML | 🟢 Concluído! |
-| *Terça* | Javascript | Introdução ao Javascript | 🟡 Em Progresso |
+| *Terça* | Javascript | Introdução ao Javascript | 🟢 Concluído! |
 | *Quarta* | Monitoria | ----- | 🟡 Em Progresso |
 | *Quinta* | Comissão | trabalhar na comissão de desenho | 🟡 Em Progresso |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
@@ -25,3 +25,4 @@
 - **12/08/2026:** Participei da monitoria da turma intermediária e continuei a comissão de desenho
 - **13/08/2026:** Participei da reunião do grupo de jogos, entreguei minhas artes e terminei uma atividade de árvore b+
 - **17/08/2026:** Resolvi e entreguei o trabalho da aula de UML
+- **18/08/2026:** Continuei o estudo de Javascript no FreeCodeCamp
