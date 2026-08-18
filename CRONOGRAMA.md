@@ -9,7 +9,7 @@
 | *Segunda* | UML | Atividade UML | 🟢 Concluído! |
 | *Terça* | Javascript | Introdução ao Javascript | 🟡 Em Progresso |
 | *Quarta* | Monitoria | ----- | 🟡 Em Progresso |
-| *Quinta* | Aseprite | Itens, animações e criaturas | 🟡 Em Progresso |
+| *Quinta* | Comissão | trabalhar na comissão de desenho | 🟡 Em Progresso |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
 
 </div>
