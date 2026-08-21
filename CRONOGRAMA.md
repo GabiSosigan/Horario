@@ -8,8 +8,8 @@
 | :--- | :--- | :--- | :---: |
 | *Segunda* | UML | Atividade UML | 🟢 Concluído! |
 | *Terça* | Javascript | Introdução ao Javascript | 🟢 Concluído! |
-| *Quarta* | Monitoria | ----- | 🟡 Em Progresso |
-| *Quinta* | Comissão | trabalhar na comissão de desenho | 🟡 Em Progresso |
+| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
+| *Quinta* | Comissão | trabalhar na comissão de desenho | 🟢 Concluído! |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
 
 </div>
@@ -26,3 +26,5 @@
 - **13/08/2026:** Participei da reunião do grupo de jogos, entreguei minhas artes e terminei uma atividade de árvore b+
 - **17/08/2026:** Resolvi e entreguei o trabalho da aula de UML
 - **18/08/2026:** Continuei o estudo de Javascript no FreeCodeCamp
+- **19/08/2026:** Participei da monitoria da turma intermediária e continuei a comissão de desenho
+- **20/08/2026:** Participei da reunião do grupo de jogos
