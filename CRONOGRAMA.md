@@ -6,11 +6,11 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| *Segunda* | UML | Atividade UML | 🟢 Concluído! |
-| *Terça* | Javascript | Introdução ao Javascript | 🟢 Concluído! |
-| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
-| *Quinta* | Comissão | trabalhar na comissão de desenho | 🟢 Concluído! |
-| *Sexta* | Grupo de IA | ----- | 🟢 Concluído! |
+| *Segunda* | Cálculo | Começar a lista de cálculo | 🟡 Em progresso |
+| *Terça* | Cálculo | Terminar a lista de cálculo | 🟡 Em progresso |
+| *Quarta* | Monitoria | ----- | 🟡 Em progresso |
+| *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟡 Em progresso |
+| *Sexta* | Grupo de IA | ----- | 🟡 Em progresso |
 
 </div>
 
