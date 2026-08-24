@@ -10,7 +10,7 @@
 | *Terça* | Javascript | Introdução ao Javascript | 🟢 Concluído! |
 | *Quarta* | Monitoria | ----- | 🟢 Concluído! |
 | *Quinta* | Comissão | trabalhar na comissão de desenho | 🟢 Concluído! |
-| *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
+| *Sexta* | Grupo de IA | ----- | 🟢 Concluído! |
 
 </div>
 
@@ -28,3 +28,4 @@
 - **18/08/2026:** Continuei o estudo de Javascript no FreeCodeCamp
 - **19/08/2026:** Participei da monitoria da turma intermediária e continuei a comissão de desenho
 - **20/08/2026:** Participei da reunião do grupo de jogos
+- **21/08/2026:** Resolvi e entreguei o trabalho da aula de UML e também enviei a documentação da TCS para o estágio
