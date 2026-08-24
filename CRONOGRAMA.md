@@ -6,7 +6,7 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| *Segunda* | Cálculo | Começar a lista de cálculo | 🟡 Em progresso |
+| *Segunda* | Cálculo | Começar a lista de cálculo | 🟢 Concluído! |
 | *Terça* | Cálculo | Terminar a lista de cálculo | 🟡 Em progresso |
 | *Quarta* | Monitoria | ----- | 🟡 Em progresso |
 | *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟡 Em progresso |
@@ -29,3 +29,4 @@
 - **19/08/2026:** Participei da monitoria da turma intermediária e continuei a comissão de desenho
 - **20/08/2026:** Participei da reunião do grupo de jogos
 - **21/08/2026:** Resolvi e entreguei o trabalho da aula de UML e também enviei a documentação da TCS para o estágio
+- **24/08/2026:** Comecei a fazer a lista de cálculo da aula de ajuste de curvas
