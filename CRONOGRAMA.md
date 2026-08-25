@@ -7,14 +7,14 @@
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
 | *Segunda* | Cálculo | Começar a lista de cálculo | 🟢 Concluído! |
-| *Terça* | Cálculo | Terminar a lista de cálculo | 🟡 Em progresso |
+| *Terça* | Cálculo | Terminar a lista de cálculo | 🟢 Concluído! |
 | *Quarta* | Monitoria | ----- | 🟡 Em progresso |
 | *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟡 Em progresso |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em progresso |
 
 </div>
 
-#### Agenda
+#### Relatórios de Agosto
 
 - **03/08/2026:** Comecei o estudo de Python no site do FreeCodeCamp
 - **04/08/2026:** Faltei por questões de saúde
@@ -30,3 +30,4 @@
 - **20/08/2026:** Participei da reunião do grupo de jogos
 - **21/08/2026:** Resolvi e entreguei o trabalho da aula de UML e também enviei a documentação da TCS para o estágio
 - **24/08/2026:** Comecei a fazer a lista de cálculo da aula de ajuste de curvas
+- **25/08/2026:** Terminei e enviei a lista de cálculo
