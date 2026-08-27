@@ -8,7 +8,7 @@
 | :--- | :--- | :--- | :---: |
 | *Segunda* | Cálculo | Começar a lista de cálculo | 🟢 Concluído! |
 | *Terça* | Cálculo | Terminar a lista de cálculo | 🟢 Concluído! |
-| *Quarta* | Monitoria | ----- | 🟡 Em progresso |
+| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
 | *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟡 Em progresso |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em progresso |
 
@@ -31,3 +31,4 @@
 - **21/08/2026:** Resolvi e entreguei o trabalho da aula de UML e também enviei a documentação da TCS para o estágio
 - **24/08/2026:** Comecei a fazer a lista de cálculo da aula de ajuste de curvas
 - **25/08/2026:** Terminei e enviei a lista de cálculo
+- **26/08/2026:** Participei da monitoria da turma intermediária e comecei o relatório
