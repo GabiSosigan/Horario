@@ -9,7 +9,7 @@
 | *Segunda* | Cálculo | Começar a lista de cálculo | 🟢 Concluído! |
 | *Terça* | Cálculo | Terminar a lista de cálculo | 🟢 Concluído! |
 | *Quarta* | Monitoria | ----- | 🟢 Concluído! |
-| *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟡 Em progresso |
+| *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟢 Concluído! |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em progresso |
 
 </div>
@@ -32,3 +32,4 @@
 - **24/08/2026:** Comecei a fazer a lista de cálculo da aula de ajuste de curvas
 - **25/08/2026:** Terminei e enviei a lista de cálculo
 - **26/08/2026:** Participei da monitoria da turma intermediária e comecei o relatório
+- **27/08/2026:** Participei da reunião do grupo de jogos e entreguei minha atividade semanal
