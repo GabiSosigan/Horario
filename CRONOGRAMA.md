@@ -6,10 +6,10 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| *Segunda* | Cálculo | Começar a lista de cálculo | 🟢 Concluído! |
-| *Terça* | Cálculo | Terminar a lista de cálculo | 🟢 Concluído! |
-| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
-| *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟢 Concluído! |
+| *Segunda* | SQL | Começar o trabalho de SQL | 🟢 Concluído! |
+| *Terça* | Javascript | Continuar o estudo de Javascript | 🟡 Em progresso |
+| *Quarta* | Monitoria | ----- | 🟡 Em progresso |
+| *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟡 Em progresso |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em progresso |
 
 </div>
@@ -33,3 +33,4 @@
 - **25/08/2026:** Terminei e enviei a lista de cálculo
 - **26/08/2026:** Participei da monitoria da turma intermediária e comecei o relatório
 - **27/08/2026:** Participei da reunião do grupo de jogos e entreguei minha atividade semanal
+- **31/08/2026:** Comecei o trabalho em grupo de SQL do João
