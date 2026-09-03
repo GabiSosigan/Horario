@@ -7,8 +7,8 @@
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
 | *Segunda* | SQL | Começar o trabalho de SQL | 🟢 Concluído! |
-| *Terça* | Javascript | Continuar o estudo de Javascript | 🟡 Em progresso |
-| *Quarta* | Monitoria | ----- | 🟡 Em progresso |
+| *Terça* | Javascript | Continuar o estudo de Javascript | 🔴 Pendente! |
+| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
 | *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟡 Em progresso |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em progresso |
 
@@ -34,3 +34,8 @@
 - **26/08/2026:** Participei da monitoria da turma intermediária e comecei o relatório
 - **27/08/2026:** Participei da reunião do grupo de jogos e entreguei minha atividade semanal
 - **31/08/2026:** Comecei o trabalho em grupo de SQL do João
+
+#### Relatórios de Agosto
+
+- **02/09/2026:** Terminei o trabalho em grupo de paradigmas de linguagem e fui na  monitoria
+- **03/09/2026:**
