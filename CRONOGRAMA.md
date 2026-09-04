@@ -9,7 +9,7 @@
 | *Segunda* | SQL | Começar o trabalho de SQL | 🟢 Concluído! |
 | *Terça* | Javascript | Continuar o estudo de Javascript | 🔴 Pendente! |
 | *Quarta* | Monitoria | ----- | 🟢 Concluído! |
-| *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🟡 Em progresso |
+| *Quinta* | Aseprite | Entregar atividade do grupo de jogos | 🔴 Pendente! |
 | *Sexta* | Grupo de IA | ----- | 🟡 Em progresso |
 
 </div>
@@ -38,4 +38,4 @@
 #### Relatórios de Agosto
 
 - **02/09/2026:** Terminei o trabalho em grupo de paradigmas de linguagem e fui na  monitoria
-- **03/09/2026:**
+- **03/09/2026:** Terminei e entreguei um trabalho em grupo da aula de banco de dados
