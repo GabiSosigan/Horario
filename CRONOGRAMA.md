@@ -6,7 +6,7 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| *Segunda* | Prova | Provas de UML e Banco de dados | 🟡 Em progresso |
+| *Segunda* | Prova | Provas de UML e Banco de dados | 🟢 Concluído! |
 | *Terça* | Estágio | Trabalhos do estágio | 🟡 Em progresso |
 | *Quarta* | Monitoria | ----- | 🟡 Em progresso |
 | *Quinta* | Estágio | Trabalhos do estágio | 🟡 Em progresso |
