@@ -6,10 +6,10 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| *Segunda* | Estágio | Trabalhos do estágio | 🟡 Em progresso |
-| *Terça* | Estágio | Trabalhos do estágio | 🟡 Em progresso |
-| *Quarta* | Monitoria | ----- | 🟡 Em progresso |
-| *Quinta* | Estágio | Trabalhos do estágio | 🟡 Em progresso |
-| *Sexta* | Grupo de IA | ----- | 🟡 Em progresso |
+| *Segunda* | Estágio | Trabalhos do estágio | 🟢 Concluído! |
+| *Terça* | Estágio | Trabalhos do estágio | 🟢 Concluído! |
+| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
+| *Quinta* | Grupo de jogos | Reunião | 🟢 Concluído! |
+| *Sexta* | Estágio | Trabalhos do estágio | 🟡 Em progresso |
 
 </div>
