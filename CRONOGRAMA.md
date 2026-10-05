@@ -10,6 +10,6 @@
 | *Terça* | Estágio | Trabalhos do estágio | 🟢 Concluído! |
 | *Quarta* | Monitoria | ----- | 🟢 Concluído! |
 | *Quinta* | Grupo de jogos | Reunião | 🟢 Concluído! |
-| *Sexta* | Estágio | Trabalhos do estágio | 🟡 Em progresso |
+| *Sexta* | Estágio | Trabalhos do estágio | 🟢 Concluído! |
 
 </div>
