@@ -7,8 +7,8 @@
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
 | *Segunda* | Estágio | Trabalhos do estágio | 🟢 Concluído! |
-| *Terça* | Estágio | Trabalhos do estágio | 🟡 Em Progresso |
-| *Quarta* | Monitoria | ----- | 🟡 Em Progresso |
+| *Terça* | Estágio | Trabalhos do estágio | 🟢 Concluído! |
+| *Quarta* | Monitoria | ----- | 🟢 Concluído! |
 | *Quinta* | Grupo de jogos | Reunião | 🟡 Em Progresso |
 | *Sexta* | Estágio | Trabalhos do estágio | 🟡 Em Progresso |
 
